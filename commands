@@ -1,0 +1,14 @@
+1. Initialize the module
+
+    go mod init <your-project-name>
+
+2. Run file
+
+    go run <file-name>
+
+3. Command help
+    go help <command-name>
+
+
+4. Build application
+    GOOS="<your-os>" go build
